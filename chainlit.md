@@ -1,6 +1,6 @@
 # Welcome to Chainlit! 🚀🤖
 
-Hi there, Human! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+Hi there, Human ! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
 
 ## Useful Links 🔗
 
